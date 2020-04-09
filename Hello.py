@@ -4,7 +4,9 @@
 
 """
 
-This is the multi block comment in Python
+This is NOT a multi block comment in Python
+
+This is a multi line string
 
 """
 
