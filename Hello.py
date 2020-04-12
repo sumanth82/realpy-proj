@@ -24,3 +24,23 @@ print(type(my_num))
 
 full_name='Sumant'+'\nRenukarya'
 print(full_name.lower())
+
+# Integers and Numbers
+
+int_num = (2+2)
+print(int_num)
+
+float_num = (2.0+2.0)
+print(float_num)
+
+print(type(int_num))
+print(type(float_num))
+
+exp_num=4.5e9
+print(exp_num)
+
+print(type(exp_num))
+
+
+
+# 
