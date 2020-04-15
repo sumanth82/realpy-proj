@@ -41,6 +41,4 @@ print(exp_num)
 
 print(type(exp_num))
 
-
-
 # 
