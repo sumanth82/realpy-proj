@@ -1,0 +1,2 @@
+users = []
+assert users == [], 
